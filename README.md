@@ -11,6 +11,9 @@ Code Review
 Before making any changes, I recorded a walkthrough of the original code. It covers the existing functionality, the weaknesses I found, and the enhancements I planned for each category.
 
 Watch the code review
+[![Watch the code review](https://img.youtube.com/vi/Mew7Mfxo2t0/hqdefault.jpg)](https://youtu.be/Mew7Mfxo2t0)
+
+[Watch the code review on YouTube](https://youtu.be/Mew7Mfxo2t0)
 
 Enhancements
 
