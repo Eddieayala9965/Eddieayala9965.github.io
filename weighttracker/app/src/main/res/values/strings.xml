@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Weight Tracker</string>
+    <string name="app_title">Weight Tracker</string>
+    <string name="app_subtitle">Reach your goals, one day at a time</string>
+    <string name="app_logo_desc">App logo</string>
+
+    <string name="label_username">Username</string>
+    <string name="label_password">Password</string>
+    <string name="hint_username">Enter your username</string>
+    <string name="hint_password">Enter your password</string>
+    <string name="btn_login">Log In</string>
+    <string name="btn_create_account">Create New Account</string>
+
+    <string name="screen_weight_log">My Weight Log</string>
+    <string name="col_date">Date</string>
+    <string name="col_weight">Weight (lbs)</string>
+    <string name="col_notes">Notes</string>
+    <string name="col_delete">Del</string>
+    <string name="fab_add_desc">Log new weight</string>
+    <string name="empty_log">No entries yet.\nTap + to log your first weight.</string>
+    <string name="sms_banner_text">Enable SMS alerts to be notified when you hit your goal</string>
+    <string name="btn_enable">Enable</string>
+    <string name="label_goal_weight">Goal Weight</string>
+    <string name="label_current_weight">Latest Weight</string>
+    <string name="label_lbs">lbs</string>
+    <string name="label_moving_average">7-Entry Avg (lbs)</string>
+    <string name="label_trend">Trend</string>
+    <string name="trend_losing">Losing</string>
+    <string name="trend_gaining">Gaining</string>
+    <string name="trend_holding">Holding</string>
+    <string name="goal_not_set">Not set</string>
+    <string name="menu_settings">Goal / Settings</string>
+    <string name="btn_logout">Log Out</string>
+
+    <string name="placeholder_date">--/--/----</string>
+    <string name="placeholder_weight">0.0</string>
+    <string name="placeholder_notes">No notes</string>
+    <string name="btn_delete_desc">Delete entry</string>
+
+    <string name="screen_add_entry">Log Weight</string>
+    <string name="label_date">Date *</string>
+    <string name="label_weight">Weight (lbs) *</string>
+    <string name="label_notes">Notes (optional)</string>
+    <string name="hint_date">MM/DD/YYYY</string>
+    <string name="hint_weight">e.g., 175.5</string>
+    <string name="hint_notes">How are you feeling today?</string>
+    <string name="btn_save_entry">Save Entry</string>
+    <string name="btn_cancel">Cancel</string>
+
+    <string name="screen_settings">Goal &amp; Settings</string>
+    <string name="section_goal">Goal Weight</string>
+    <string name="section_notifications">Notifications</string>
+    <string name="hint_goal">e.g., 160.0</string>
+    <string name="helper_goal">An SMS alert will send the moment you reach this weight</string>
+    <string name="btn_save_goal">Save Goal</string>
+    <string name="label_sms_notifications">SMS Goal Notifications</string>
+    <string name="sms_switch_desc">Get a text message when you reach your goal weight</string>
+    <string name="sms_permission_not_granted">Permission not granted — tap to request access</string>
+    <string name="sms_permission_granted">SMS notifications are enabled</string>
+
+    <string name="screen_notifications">SMS Notifications</string>
+    <string name="sms_title">Stay Notified</string>
+    <string name="sms_subtitle">Weight Tracker can send you an SMS text message the moment you reach your goal weight.</string>
+    <string name="sms_what_you_get">What you\'ll receive:</string>
+    <string name="sms_feature_1">An instant text alert the moment you hit your goal weight</string>
+    <string name="sms_feature_2">Works even when the app is closed or in the background</string>
+    <string name="sms_feature_3">No spam — only one message sent when your goal is reached</string>
+    <string name="sms_status_not_granted">SMS permission not yet granted. Tap below to allow access.</string>
+    <string name="sms_status_granted">Permission granted! You will receive an SMS when you reach your goal.</string>
+    <string name="sms_status_denied">Permission denied. The app will continue to work without SMS alerts.</string>
+    <string name="btn_grant_sms">Allow SMS Notifications</string>
+    <string name="btn_deny_sms">No Thanks, Skip</string>
+    <string name="sms_fine_print">You can change this anytime in Goal &amp; Settings. The app works fully without SMS access.</string>
+    <string name="sms_icon_desc">Notification icon</string>
+    <string name="warning_icon_desc">Warning icon</string>
+
+    <string name="screen_edit_entry">Edit Entry</string>
+
+    <string name="label_phone">Phone Number for SMS Alerts</string>
+    <string name="hint_phone">e.g., +15550100</string>
+    <string name="btn_save_phone">Save Phone Number</string>
+    <string name="helper_phone">Alerts will be sent to this number when goal is reached</string>
+</resources>
