@@ -17,3 +17,4 @@ Before making any changes, I recorded a walkthrough of the original code. It cov
 Software design and engineering, algorithms and data structures, and databases. Narratives and code will be posted here as each one is finished.
 
 [Enhancement One: Software Design and Engineering](software-design.md)
+[Enhancement Two: Algorithms and Data Structures](algorithms.md)
