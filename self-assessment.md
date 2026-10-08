@@ -13,3 +13,5 @@ For data structures and algorithms, I added a moving average to WeightTracker. F
 Security is the area I'm most interested in. In WeightTracker I replaced plaintext passwords with salted PBKDF2 hashing, and in the database work I added a foreign key, removed orphan rows, and made the app reject bad dates. In CS 410, Reverse Software Engineering, I looked at software from an attacker's side, and we talked about real attacks like the 2011 PlayStation Network breach.
 
 All of the work here is on one app, WeightTracker, an Android app I built in Java for CS 360. The code review comes first. The software design enhancement covers password hashing and the database code cleanup. The algorithms enhancement covers the moving average. The databases enhancement covers the foreign key, the index, the date fix, and the migration. Each one has its own page with a narrative and links to the code.
+
+[Back to portfolio home](/)
