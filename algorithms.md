@@ -15,3 +15,5 @@ I added a WeightTrends class that calculates a moving average over the entries a
 This meets the algorithms and data structures outcome I planned in Module One. The main trade-off was new users. I chose to average whatever entries they have instead of waiting for seven, so the app shows something right away, but the early averages change a lot.
 
 Testing also showed that dates were sorting wrong across a new year. That was a database problem, so I fixed it in the databases enhancement.
+
+[Back to portfolio home](/)
