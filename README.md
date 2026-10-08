@@ -2,6 +2,8 @@
 
 Computer Science ePortfolio, SNHU, CS-499 Capstone
 
+[Professional Self-Assessment](self-assessment.md)
+
 This portfolio documents my capstone work enhancing WeightTracker, an Android app I built in Java for CS 360. The app handles user accounts, stores weight entries in a local SQLite database, and sends an SMS notification when a user reaches their goal weight.
 
 ## Code Review
@@ -19,3 +21,9 @@ Software design and engineering, algorithms and data structures, and databases. 
 [Enhancement One: Software Design and Engineering](software-design.md)
 
 [Enhancement Two: Algorithms and Data Structures](algorithms.md)
+
+[Enhancement Three: Databases](databases.md)
+
+[Original code (before enhancements)](https://github.com/Eddieayala9965/Eddieayala9965.github.io/tree/main/weighttracker-original)
+
+[Enhanced code](https://github.com/Eddieayala9965/Eddieayala9965.github.io/tree/main/weighttracker)
