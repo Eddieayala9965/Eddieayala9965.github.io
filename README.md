@@ -22,7 +22,7 @@ Software design and engineering, algorithms and data structures, and databases. 
 
 [Enhancement Two: Algorithms and Data Structures](algorithms.md)
 
-[Enhancement Three: Databases](databases.md)
+[Enhancement Three: Databases](databases.html)
 
 [Original code (before enhancements)](https://github.com/Eddieayala9965/Eddieayala9965.github.io/tree/main/weighttracker-original)
 
