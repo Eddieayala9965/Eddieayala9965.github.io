@@ -15,3 +15,5 @@ This enhancement fixed the two main software design problems I found in my code 
 This covers two course outcomes. The connection refactor covers the software engineering and design outcome, and the password hashing covers the security outcome.
 
 The hardest part was a compatibility problem I didn't plan for. The SHA-256 version of PBKDF2 isn't available on the app's minimum supported Android version, and it fails on those devices without a clear error. I had to research it, choose the SHA-1 version instead, and write down why in the code. SHA-1's known weaknesses are about collisions, which don't apply to how it's used inside PBKDF2, so it's still safe here.
+
+[Back to portfolio home](/)
